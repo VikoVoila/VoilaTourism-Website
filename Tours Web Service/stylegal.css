@@ -1,0 +1,44 @@
+body{
+	background-color: #996633;
+	background-image: url('main.jpg');
+	background-position: center;
+	background-size:cover;
+	background-blend-mode: soft-light;
+}
+.container{
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+	 
+}
+header{
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+	color: #fff;
+	text-align: center; 
+	background-color: #996633;
+
+}
+footer{
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+	color: #fff;
+	text-align: center; 
+	background-color: #996633;
+	clear: both;
+
+}
+.content{
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+.content ul{list-style-type: none;}
+.content ul li{
+	width: 250px;
+    margin: 40px;
+    float: left;            
+}
